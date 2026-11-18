@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'apps.curriculum',
     'apps.users',
     'apps.engine',
+    'apps.sessions',
 ]
 
 MIDDLEWARE = [
