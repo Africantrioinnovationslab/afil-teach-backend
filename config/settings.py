@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #local apps
     'apps.curriculum',
     'apps.users',
+    'apps.engine',
 ]
 
 MIDDLEWARE = [
